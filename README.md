@@ -2,6 +2,8 @@
 
 This project is a Python-based web scraper that collects product data from a website. It uses **Selenium** for browser automation, **Cloudscraper** for bypassing anti-bot protection, and **BeautifulSoup** for parsing HTML.
 
+Created by: NeoTR
+For custom coding projects go to: [Mathix Developing](https://discord.gg/uwuCGUUtnA)
 ## Features
 
 - Retrieves product information (name, description, image link, product link) from a website.
