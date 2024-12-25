@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+cloudscraper==1.2.71
+selenium==4.27.1
+webdriver_manager==4.0.2
